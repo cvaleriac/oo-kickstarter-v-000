@@ -1,4 +1,4 @@
-class Projects
+class Project
   @backers = []
   attr_accessor :title
 
